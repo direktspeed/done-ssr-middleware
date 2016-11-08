@@ -28,19 +28,19 @@
   "homepage": "https://github.com/donejs/done-ssr-middleware#readme",
   "devDependencies": {
     "can": "^2.3.0-pre || ^2.3.0-beta || ^2.3.0",
-    "can-fixture": "^0.1.2",
-    "copy-dir": "0.0.8",
-    "done-autorender": "^0.7.0",
+    "can-fixture": "^1.0.4",
+    "copy-dir": "0.3.0",
+    "done-autorender": "^0.8.0",
     "express": "^4.13.4",
-    "jquery": "^2.2.3",
-    "mocha": "^2.4.5",
+    "jquery": "^3.1.1",
+    "mocha": "^3.1.2",
     "request": "^2.69.0",
     "spawn-mochas": "^1.1.0"
   },
   "dependencies": {
-    "done-autorender": "^0.7.0",
+    "done-autorender": "^0.8.0",
     "done-ssr": "^0.13.0",
-    "nock": "^7.2.2",
+    "nock": "^9.0.2",
     "websocket": "^1.0.22",
     "xmlhttprequest": "^1.7.0"
   }
