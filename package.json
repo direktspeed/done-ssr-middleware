@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/donejs/done-ssr-middleware#readme",
   "devDependencies": {
-    "can": "^2.3.0-pre || ^2.3.0-beta || ^2.3.0",
+    "can": "^3.8.2",
     "can-fixture": "^1.0.4",
     "copy-dir": "0.3.0",
     "done-autorender": "^0.8.0",
