@@ -38,7 +38,7 @@
     "spawn-mochas": "^1.1.0"
   },
   "dependencies": {
-    "done-autorender": "^0.8.0",
+    "done-autorender": "^1.1.0",
     "done-ssr": "^0.13.0",
     "nock": "^9.0.2",
     "websocket": "^1.0.22",
